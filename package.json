@@ -1,0 +1,17 @@
+{
+  "name": "yup_all_or_nothing_validation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/createthis/yup_all_or_nothing_validation.git"
+  },
+  "author": "Jesse CreateThis <jesse@createthis.com>",
+  "license": "MIT",
+  "dependencies": {
+    "yup": "^0.32.11"
+  }
+}
